@@ -8,7 +8,7 @@
 <br>
 4)After that , each step of selected algorithm is shown by showing the array elements swapped in current step with green color and rest with red color. 
 <br>
-5)Algorithm can be visualized at the desired spped by the user :) 
+5)Algorithm can be visualized at the desired speed by the user :) 
 
 <br>
 
