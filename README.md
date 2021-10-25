@@ -12,6 +12,6 @@
 
 <br>
 
-<img src="https://ibb.co/gVgw30D">
+<img src="https://i.ibb.co/6BsbmK4/yesgod.png">
 
 <br>
